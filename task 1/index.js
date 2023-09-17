@@ -12,7 +12,7 @@ select.addEventListener("change", () => {
         document.getElementById("plans3").classList.add("highlight");
     }
 });
-
+//the bootsrtap doesnt work
 
 
 
